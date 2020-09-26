@@ -10,6 +10,7 @@ namespace CodeBlogFitness.CMD
     {
         static void Main(string[] args)
         {
+            int n = 777;
         }
     }
 }
